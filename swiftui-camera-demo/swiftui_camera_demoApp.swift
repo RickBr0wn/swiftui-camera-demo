@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct swiftui_camera_demoApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+  }
 }
